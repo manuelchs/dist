@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="USER" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="1.-Main" transform="translate(-874.000000, -2116.000000)" stroke-width="3" stroke="#5F5F5F">
+            <g id="5.-Servicios" transform="translate(95.000000, 2017.000000)">
+                <g id="Gran-formato" transform="translate(703.000000, 101.000000)">
+                    <g id="Page-1" transform="translate(78.000000, 0.000000)">
+                        <polygon id="Stroke-1" stroke-linecap="round" points="0 97 97 97 97 0 0 0"></polygon>
+                        <path d="M0,27 L97,27" id="Stroke-3"></path>
+                        <path d="M31,27 L31,97" id="Stroke-4"></path>
+                        <path d="M31,62 L97,62" id="Stroke-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
